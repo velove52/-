@@ -2,7 +2,9 @@
 <p align="center">
   使用 Python 自动导出雨课堂试题为 PDF（支持一题一页 + 正确答案）
 </p>
-
+<h1 align="center">
+<span style="color:#ff4d4f;">操蛋了，我研究了半天才发现它自带导出功能！！！</span>
+</h1>
 <hr>
 
 <h2>✨ 功能特点</h2>
