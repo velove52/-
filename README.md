@@ -1,8 +1,5 @@
 <h1 align="center">📘 雨课堂试题导出工具</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/操蛋了-研究半天才发现自带导出-red?style=for-the-badge">
-</p>
-<p align="center">
   使用 Python 自动导出雨课堂试题为 PDF（支持一题一页 + 正确答案）
 </p>
 
