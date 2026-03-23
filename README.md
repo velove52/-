@@ -1,14 +1,14 @@
 <h1 align="center">📘 雨课堂试题导出工具</h1>
 <h1 align="center"
     style="
-        color: white;
+        color: red;
         background: linear-gradient(90deg, red, orange);
         padding: 14px;
         border-radius: 10px;
         font-size: 30px;
         font-weight: bold;
     ">
-操蛋了，我研究了半天好不容易弄好才发现原来它本身就再带导出试卷的功能
+操蛋了，我研究了半天好不容易弄好才发现原来它本身就再带导出试卷的功能!!!!
 </h1>
 <p align="center">
   使用 Python 自动导出雨课堂试题为 PDF（支持一题一页 + 正确答案）
